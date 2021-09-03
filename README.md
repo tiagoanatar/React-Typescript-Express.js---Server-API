@@ -4,7 +4,7 @@ Backend: [Node.js](https://nodejs.org/) with [Express.js](http://expressjs.com/)
 
 # Installation 
 
-> npm install
-> npm run dev
+- npm install
+- npm run dev
 
 On browser, go to http://localhost:7000/api/menu/items

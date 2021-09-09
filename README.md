@@ -1,4 +1,4 @@
-# React-Typescript-Express.js-Server-API
+Typescript-Express.js-Server-API
 
 Backend: [Node.js](https://nodejs.org/) with [Express.js](http://expressjs.com/) and [TypeScript](https://www.typescriptlang.org/)
 
